@@ -3,8 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="19ff3b29-ac32-4ddb-b20b-3365c35fe425" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confusion/src/components/dishDetailComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/dishDetailComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion/src/components/footerComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/footerComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion/src/components/headerComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/headerComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion/src/components/mainComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/mainComponent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/confusion/src/components/menuComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/menuComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +60,8 @@
       <workItem from="1643645103798" duration="5919000" />
       <workItem from="1643720111607" duration="5451000" />
       <workItem from="1643806281008" duration="4020000" />
-      <workItem from="1643887512150" duration="3623000" />
+      <workItem from="1643887512150" duration="11434000" />
+      <workItem from="1643974903678" duration="4575000" />
     </task>
     <servers />
   </component>
