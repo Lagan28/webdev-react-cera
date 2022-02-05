@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="19ff3b29-ac32-4ddb-b20b-3365c35fe425" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confusion/src/components/dishDetailComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/dishDetailComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confusion/src/components/homeComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/homeComponent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/confusion/src/components/mainComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/mainComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confusion/src/components/menuComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/menuComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confusion/src/shared/dishes.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/shared/dishes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion/src/shared/leaders.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/shared/leaders.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +57,8 @@
       <workItem from="1643806281008" duration="4020000" />
       <workItem from="1643887512150" duration="11434000" />
       <workItem from="1643974903678" duration="8661000" />
-      <workItem from="1643994298679" duration="2767000" />
+      <workItem from="1643994298679" duration="2985000" />
+      <workItem from="1644073573984" duration="1468000" />
     </task>
     <servers />
   </component>
