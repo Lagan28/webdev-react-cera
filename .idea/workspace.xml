@@ -4,8 +4,7 @@
     <list default="true" id="19ff3b29-ac32-4ddb-b20b-3365c35fe425" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/confusion/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confusion/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confusion/src/components/mainComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/mainComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion/src/components/contactComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/contactComponent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/confusion/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +63,8 @@
       <workItem from="1644073573984" duration="1915000" />
       <workItem from="1644078476800" duration="1761000" />
       <workItem from="1644151061048" duration="5321000" />
-      <workItem from="1644237498059" duration="5938000" />
+      <workItem from="1644237498059" duration="6442000" />
+      <workItem from="1644307770155" duration="1605000" />
     </task>
     <servers />
   </component>
