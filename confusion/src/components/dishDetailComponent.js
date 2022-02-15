@@ -4,6 +4,7 @@ import { Card, CardImg, CardTitle, Breadcrumb, BreadcrumbItem, CardBody, CardTex
 } from "reactstrap";
 import { Control, LocalForm, Errors } from 'react-redux-form';
 import { Link } from 'react-router-dom';
+import { Loading } from './loadingComponent';
 
 const required = (val) => val && val.length;
 const maxLength = (len) => (val) => !(val) || (val.length <= len);
@@ -204,19 +205,31 @@ function RenderComments({dish, comments, addComment, dishId}){
 
 const DishDetail = (props) => {
 
-        //console.log('DishDetail Component render invoked')
+    //console.log('DishDetail Component render invoked')
 
-        const dish = props.dish
+    const dish = props.dish
 
-        if (dish == null) {
-            return (
-                <div></div>
-            );
-        }
+    if (props.isLoading) {
+        return (
+            <div className="container">
+                <div className="row">
+                    <Loading/>
+                </div>
+            </div>
+        );
+    } else if (props.errMess) {
+        return (
+            <div className="container">
+                <div className="row">
+                    <h4>{props.errMess}</h4>
+                </div>
+            </div>
+        );
+    }
 
-        /*const dishItem = this.renderDish(dish);
-        const dishComms= this.renderComm(dish.comments);*/
-
+    /*const dishItem = this.renderDish(dish);
+    const dishComms= this.renderComm(dish.comments);*/
+    else if (props.dish != null) {
         return (
             <div className="container">
                 <div className="row">
@@ -226,9 +239,9 @@ const DishDetail = (props) => {
                     </Breadcrumb>
                     <div className="col-12">
                         <h3>{props.dish.name}</h3>
-                        <hr />
+                        <hr/>
                     </div>
-                    <RenderDish dish={ props.dish }/>
+                    <RenderDish dish={props.dish}/>
                     <RenderComments dish={props.dish}
                                     comments={props.comments}
                                     addComment={props.addComment}
@@ -238,6 +251,7 @@ const DishDetail = (props) => {
             </div>
         );
     }
+}
 
 
 export default DishDetail;
