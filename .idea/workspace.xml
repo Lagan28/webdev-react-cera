@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="19ff3b29-ac32-4ddb-b20b-3365c35fe425" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confusion/src/components/dishDetailComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/dishDetailComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confusion/src/components/homeComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/homeComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion/src/components/contactComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/contactComponent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/confusion/src/components/mainComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/mainComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confusion/src/redux/dishes.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/redux/dishes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion/src/redux/configureStore.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/redux/configureStore.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,8 @@
       <workItem from="1644579943627" duration="3202000" />
       <workItem from="1644658510634" duration="222000" />
       <workItem from="1644745757837" duration="1995000" />
-      <workItem from="1644918314394" duration="5537000" />
+      <workItem from="1644918314394" duration="5865000" />
+      <workItem from="1645006559295" duration="1670000" />
     </task>
     <servers />
   </component>
