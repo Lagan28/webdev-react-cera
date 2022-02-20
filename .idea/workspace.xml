@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="19ff3b29-ac32-4ddb-b20b-3365c35fe425" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion/src/components/mainComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/mainComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion/src/redux/actionCreators.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/redux/actionCreators.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion/src/redux/actionTypes.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/redux/actionTypes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion/src/redux/comments.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/redux/comments.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion/src/redux/promotions.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/redux/promotions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +78,8 @@
       <workItem from="1645006559295" duration="1902000" />
       <workItem from="1645096714291" duration="1739000" />
       <workItem from="1645268521723" duration="1136000" />
+      <workItem from="1645349817802" duration="1215000" />
+      <workItem from="1645360792213" duration="3254000" />
     </task>
     <servers />
   </component>
