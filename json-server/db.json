@@ -201,6 +201,38 @@
       "comment": "It's your birthday, we're gonna party!",
       "author": "25 Cent",
       "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "dishId": 1,
+      "rating": "2",
+      "author": "test",
+      "comment": "testComment",
+      "date": "2022-02-22T08:39:02.193Z",
+      "id": 28
+    },
+    {
+      "dishId": 3,
+      "rating": "3",
+      "author": "testB",
+      "comment": "This is a test Comment.",
+      "date": "2022-02-22T08:40:57.784Z",
+      "id": 29
+    },
+    {
+      "dishId": 1,
+      "rating": "4",
+      "author": "john",
+      "comment": "This is a great dish.",
+      "date": "2022-02-22T08:42:49.574Z",
+      "id": 30
+    },
+    {
+      "dishId": 3,
+      "rating": "4",
+      "author": "Ariana",
+      "comment": "Great, but the presentation could've been better.",
+      "date": "2022-02-22T08:49:26.052Z",
+      "id": 31
     }
   ],
   "promotions": [
