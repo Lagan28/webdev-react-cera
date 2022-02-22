@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="19ff3b29-ac32-4ddb-b20b-3365c35fe425" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confusion/src/components/homeComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/homeComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confusion/src/redux/comments.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/redux/comments.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion/src/redux/actionCreators.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/redux/actionCreators.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/json-server/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/json-server/db.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +75,8 @@
       <workItem from="1645268521723" duration="1136000" />
       <workItem from="1645349817802" duration="1215000" />
       <workItem from="1645360792213" duration="3583000" />
-      <workItem from="1645448853991" duration="2205000" />
+      <workItem from="1645448853991" duration="2979000" />
+      <workItem from="1645514204161" duration="1585000" />
     </task>
     <servers />
   </component>

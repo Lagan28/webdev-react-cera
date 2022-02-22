@@ -23,7 +23,7 @@
     {
       "id": 2,
       "name": "Vadonut",
-      "image": "images/vadonut.png",
+      "image": "./images/vadonut.png",
       "category": "appetizer",
       "label": "New",
       "price": "1.99",
