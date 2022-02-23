@@ -3,12 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="19ff3b29-ac32-4ddb-b20b-3365c35fe425" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confusion/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confusion/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confusion/src/components/dishDetailComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/dishDetailComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion/src/components/aboutComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/aboutComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion/src/components/contactComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/contactComponent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/confusion/src/components/homeComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/homeComponent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/confusion/src/components/mainComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/mainComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confusion/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion/src/redux/actionCreators.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/redux/actionCreators.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion/src/redux/actionTypes.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/redux/actionTypes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion/src/redux/leaders.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/redux/leaders.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/json-server/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/json-server/db.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +82,8 @@
       <workItem from="1645349817802" duration="1215000" />
       <workItem from="1645360792213" duration="3583000" />
       <workItem from="1645448853991" duration="2979000" />
-      <workItem from="1645514204161" duration="7474000" />
+      <workItem from="1645514204161" duration="7921000" />
+      <workItem from="1645600443149" duration="4613000" />
     </task>
     <servers />
   </component>

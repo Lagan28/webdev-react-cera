@@ -295,6 +295,28 @@
       "message": "afadsfds",
       "date": "2017-12-04T09:41:49.890Z",
       "id": 1
+    },
+    {
+      "firstname": "Madison",
+      "lastname": "Beer",
+      "telnum": "4567894565",
+      "email": "madB@gmail.com",
+      "agree": true,
+      "contactType": "Email",
+      "message": "Dies ist ein gutes Restaurant.",
+      "date": "2022-02-23T08:49:06.133Z",
+      "id": 2
+    },
+    {
+      "firstname": "test",
+      "lastname": "feedback",
+      "telnum": "4567891235",
+      "email": "testEmail@email.com",
+      "agree": false,
+      "contactType": "Email",
+      "message": "Test Feedback!",
+      "date": "2022-02-23T08:52:00.858Z",
+      "id": 3
     }
   ]
 }
