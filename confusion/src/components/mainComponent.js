@@ -34,9 +34,9 @@ const mapDispatchToProps = (dispatch) => ({
 
 class Main extends Component {
 
-    constructor(props){
+    /*constructor(props){
         super(props);
-    }
+    }*/
 
     //componentDidMount() lifecycle method is invoked immediately after a component is mounted (inserted into the tree).
     // Initialization that requires DOM nodes should go here. So, the dishes will be fetched as soon as the component

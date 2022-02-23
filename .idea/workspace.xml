@@ -5,12 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/confusion/src/components/aboutComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/aboutComponent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/confusion/src/components/contactComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/contactComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confusion/src/components/homeComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/homeComponent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/confusion/src/components/mainComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/components/mainComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confusion/src/redux/actionCreators.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/redux/actionCreators.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confusion/src/redux/actionTypes.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/redux/actionTypes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confusion/src/redux/leaders.js" beforeDir="false" afterPath="$PROJECT_DIR$/confusion/src/redux/leaders.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json-server/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/json-server/db.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +78,7 @@
       <workItem from="1645360792213" duration="3583000" />
       <workItem from="1645448853991" duration="2979000" />
       <workItem from="1645514204161" duration="7921000" />
-      <workItem from="1645600443149" duration="4613000" />
+      <workItem from="1645600443149" duration="5952000" />
     </task>
     <servers />
   </component>
